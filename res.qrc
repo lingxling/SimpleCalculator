@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="backspace.jpg">img/backspace.jpg</file>
+        <file alias="icon.jpg">img/icon.jpg</file>
+    </qresource>
+</RCC>
