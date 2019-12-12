@@ -11,6 +11,6 @@
 - 如果合法，则先将运算式转为后缀表达式，再计算结果并输出
 ## 运行效果
 <center class="half">
-    <img src="img/test_1.gif" width="400"/>
-    <img src="img/test_2.gif" width="400"/>
+    <img src="img/test_1.gif" width="300"/>
+    <img src="img/test_2.gif" width="300"/>
 </center>
