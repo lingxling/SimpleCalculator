@@ -14,5 +14,3 @@
     <img src="img/test_1.gif" width="400"/>
     <img src="img/test_2.gif" width="400"/>
 </center>
-## 截图
-![](/img/test_1.gif) ![](/img/test_2.gif)
